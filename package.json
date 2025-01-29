@@ -1,0 +1,31 @@
+{
+  "name": "bos-slash-altyapi",
+  "version": "1.0.0",
+  "description": "Boş Slash Altyapı - Discord.js v14",
+  "main": "starr.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node starr.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js"
+  ],
+  "author": "Starr",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "14.11.0",
+    "@discordjs/builders": "1.6.3",
+    "@discordjs/rest": "1.7.1",
+    "discord-api-types": "0.37.42",
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starrhub/Bos-Slash-Altyapi-Discord.js-v14"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
