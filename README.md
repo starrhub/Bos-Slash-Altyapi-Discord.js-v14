@@ -23,6 +23,7 @@ npm install
 ```json
 {
     "token": "BOT_TOKEN",
+    "clientId": "BOT_ID"
 }
 ```
 
